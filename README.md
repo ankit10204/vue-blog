@@ -1,6 +1,6 @@
 # myvueblog
 
-> A Vue.js project
+> A Vue.js blog for learning basic use of components and router
 
 ## Build Setup
 
